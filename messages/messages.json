@@ -7,6 +7,13 @@
       "link": {"label": "See more", "to": "https://www.google.com"}
     },
     {
+      "date": "2023-08-16",
+      "level": "critical",
+      "title": "Critical",
+      "desc": "Teest critical message ###",
+      "link": {"label": "See more", "to": "https://www.google.com"}
+    }
+    {
       "date": "2023-08-15",
       "level": "warning",
       "desc": "This is a warning message.."
